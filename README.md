@@ -187,7 +187,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif 
 ```
-## Output screen shots of Serial port utility   :
+## Output:
 
 <img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 9 04 04 AM" src="https://github.com/user-attachments/assets/40b2a560-ee02-42a9-bc58-76138d7c4444" />
 
